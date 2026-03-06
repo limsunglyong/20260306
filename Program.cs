@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Collections.Generic; // Queue를 사용하기 위해서는 필수.
+using System.Collections;
 
 class Program
 {
@@ -58,6 +58,13 @@ class Program
             }
             Console.WriteLine();
         }
+
+        Hashtable ht = new Hashtable();
+        ht["book"] = "책";
+        ht["pen"] = "펜";
+        ht["apple"] = "사과";
+
+        Console.WriteLine(ht["apple"]);
     }
 }
 

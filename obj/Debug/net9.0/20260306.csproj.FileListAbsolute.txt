@@ -12,3 +12,4 @@ D:\roseWorks\programming\C#Test\20260306\obj\Debug\net9.0\refint\20260306.dll
 D:\roseWorks\programming\C#Test\20260306\obj\Debug\net9.0\20260306.pdb
 D:\roseWorks\programming\C#Test\20260306\obj\Debug\net9.0\20260306.genruntimeconfig.cache
 D:\roseWorks\programming\C#Test\20260306\obj\Debug\net9.0\ref\20260306.dll
+D:\roseWorks\programming\C#Test\20260306\obj\Debug\net9.0\20260306.sourcelink.json
